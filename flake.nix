@@ -30,7 +30,8 @@
         paths = with pkgs; [
 
           R
-	  python312.radian
+          python312Packages.radian
+
           python312
           julia-bin
           go
@@ -47,7 +48,7 @@
         buildInputs = with pkgs; [
 
           R
-	  python312.radian
+          python312Packages.radian
           python312
           julia-bin
           go
