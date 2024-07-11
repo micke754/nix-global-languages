@@ -32,6 +32,16 @@
           R
           python312Packages.radian
 
+          rPackages.tidyverse
+          rPackages.data_table
+          rPackages.arrow
+          rPackages.xml2
+          rPackages.lintr
+          rPackages.roxygen2
+          rPackages.languageserver
+          rPackages.odbc
+          rPackages.shiny
+
           python312
           julia-bin
           go
@@ -49,6 +59,17 @@
 
           R
           python312Packages.radian
+
+          rPackages.tidyverse
+          rPackages.data_table
+          rPackages.arrow
+          rPackages.xml2
+          rPackages.lintr
+          rPackages.roxygen2
+          rPackages.languageserver
+          rPackages.odbc
+          rPackages.shiny
+
           python312
           julia-bin
           go
